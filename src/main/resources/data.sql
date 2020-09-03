@@ -1,0 +1,2 @@
+INSERT INTO PRODUCT (name, description, price, createdat, updatedat) VALUES('Lokesh1', 'Gupta', 20, '2019-10-10', CURRENT_TIMESTAMP());
+INSERT INTO PRODUCT (name, description, price, createdat, updatedat) VALUES('John', 'Dow', 200, '2019-10-10', CURRENT_TIMESTAMP());
